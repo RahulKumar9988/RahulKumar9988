@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-🤝 I’m looking for opportunity <br>🌱 I’m currently learning webRTC, TurboRepo, Cloudflare<br>💬 Ask me about WebDev<br>
+🤝 I’m looking for opportunity <br>🌱 I’m currently learning Next, TurboRepo, Cloudflare<br>💬 Ask me about WebDev<br>
 
 
 ## 🌐 Socials:
