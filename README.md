@@ -1,7 +1,7 @@
 
 
-# 💫 About Me:
-🤝 I’m looking for opportunity <br>🌱 I’m currently learning Next, TurboRepo, Cloudflare<br>💬 Ask me about WebDev<br>
+# 💫 Hey RJ This Side....
+🤝 I'm looking for Projects to Contribute. <br>🌱 I’m currently learning System Design.<br>💬 Ask me about WebDev<br>
 
 
 ## 🌐 Socials:
