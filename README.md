@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="matrix_banner.gif" width="600" alt="Animated Coder Profile Banner" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);" />
+  <!-- Added ?v=3 to bypass GitHub's image caching -->
+  <img src="matrix_banner.gif?v=3" width="600" alt="Animated Coder Profile Banner" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 <!-- Typer and Social Links -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Full%20Stack%20Web%20Developer;Building%20fast,%20secure%20apps;System%20Design%20Learner" alt="Typing SVG" />
+  <!-- Added &v=3 to bypass GitHub's cache -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Full%20Stack%20Web%20Developer;Building%20fast,%20secure%20apps;System%20Design%20Learner&v=3" alt="Typing SVG" />
   <br><br>
   <a href="https://www.linkedin.com/in/rahul-kumar-320aaa325/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -18,24 +20,28 @@
 
 <h3 align="center">🚀 About Me</h3>
 <p align="center">
-  💻 Full Stack Web Developer with hands-on experience in <b>React, Next.js, Node.js, Express, PostgreSQL, and Supabase</b>.<br>
-  ⚡ Experienced with <b>AWS, Cloudflare Workers, GraphQL, and SWR</b>.<br>
-  🌱 Fast learner focused on building highly scalable applications.<br>
-  🎓 Pursuing B.Tech at <b>Haldia Institute Of Technology (2022 - 2026)</b><br>
+  <em>Architecting robust backends & building zero-latency frontends.</em>
+</p>
+
+<p align="center">
+  💻 <b>Engineering</b>: Deep expertise in <code>React</code>, <code>Next.js</code>, <code>Node.js</code>, and <code>PostgreSQL</code>.<br>
+  ⚡ <b>Cloud & Systems</b>: Scaling apps with <code>AWS</code>, <code>Cloudflare Workers</code>, and <code>GraphQL</code>.<br>
+  🌱 <b>Mindset</b>: Obsessed with System Design, clean code principles, and high-performance APIs.<br>
+  🎓 <b>Education</b>: Pursuing B.Tech at <i>Haldia Institute Of Technology</i> (Class of 2026).<br>
 </p>
 
 ---
 
 <h3 align="center">💻 Tech Stack & Tools</h3>
 <p align="center">
-  <i>Technologies & Frameworks used in my projects & internships</i><br><br>
+  <i>Technologies & Frameworks used in my projects & internships</i><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,go,c,cpp" />
-    <br><br>
+    <br>
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
-    <br><br>
+    <br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,supabase,mongodb,postgres" />
-    <br><br>
+    <br>
     <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,git,github,postman" />
   </a>
 </p>
