@@ -34,15 +34,9 @@
 
 <h3 align="center">💻 Tech Stack & Tools</h3>
 <p align="center">
-  <i>Technologies & Frameworks used in my projects & internships</i><br>
+  <i>Technologies & Frameworks used in my projects & internships</i><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,go,c,cpp" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,supabase,mongodb,postgres" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=js,ts,go,c,cpp,react,nextjs,html,css,tailwind,vite,nodejs,express,prisma,supabase,mongodb,postgres,aws,cloudflare,docker,git,github,postman&perline=8" />
   </a>
 </p>
 
@@ -56,9 +50,9 @@
 </p>
 
 <p align="center">
-  <!-- Stats and Languages Box -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RahulKumar9988&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulKumar9988&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=0D1117" />
+  <!-- Stats and Languages Box (Currently down globally: DEPLOYMENT_PAUSED on Vercel) -->
+  <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=RahulKumar9988&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" /> -->
+  <!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulKumar9988&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=0D1117" /> -->
 </p>
 
 <p align="center">
