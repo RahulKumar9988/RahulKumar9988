@@ -27,12 +27,11 @@
   💻 <b>Engineering</b>: Deep expertise in <code>React</code>, <code>Next.js</code>, <code>Node.js</code>, and <code>PostgreSQL</code>.<br>
   ⚡ <b>Cloud & Systems</b>: Scaling apps with <code>AWS</code>, <code>Cloudflare Workers</code>, and <code>GraphQL</code>.<br>
   🌱 <b>Mindset</b>: Obsessed with System Design, clean code principles, and high-performance APIs.<br>
-  🎓 <b>Education</b>: Pursuing B.Tech at <i>Haldia Institute Of Technology</i> (Class of 2026).<br>
 </p>
 
 ---
 
-<h3 align="center">💻 Tech Stack & Tools</h3>
+<h3 align="center">💻 Tech Stack & Tools</
 <p align="center">
   <i>Technologies & Frameworks used in my projects & internships</i><br><br>
   <a href="https://skillicons.dev">
