@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="alone_coder_banner.gif" width="600" alt="Animated Coder Profile Banner" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);" />
+  <img src="matrix_banner.gif" width="600" alt="Animated Coder Profile Banner" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 <!-- Typer and Social Links -->
