@@ -4,7 +4,7 @@
 
 <!-- Typer and Social Links -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full%20Stack%20Web%20Developer;Building%20fast,%20secure%20apps;System%20Design%20Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Full%20Stack%20Web%20Developer;Building%20fast,%20secure%20apps;System%20Design%20Learner" alt="Typing SVG" />
   <br><br>
   <a href="https://www.linkedin.com/in/rahul-kumar-320aaa325/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
