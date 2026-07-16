@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="matrix_banner.gif" width="100%" alt="Matrix Profile Banner" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);" />
+  <img src="alone_coder_banner.gif" width="600" alt="Animated Coder Profile Banner" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);" />
 </p>
 
 <!-- Typer and Social Links -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full%20Stack%20Web%20Developer;Building%20fast,%20secure,%20user-centric%20apps;System%20Design%20Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full%20Stack%20Web%20Developer;Building%20fast,%20secure%20apps;System%20Design%20Learner" alt="Typing SVG" />
   <br><br>
   <a href="https://www.linkedin.com/in/rahul-kumar-320aaa325/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
